@@ -163,19 +163,5 @@
         }
     ],
 
-    "user": [
-        {
-            "id" : "1",
-            "firstName": "",
-            "lastName" : "",
-            "fullName" : "",
-            "email" : "",
-            "cardName" : "",
-            "cardNumber" : "",
-            "cardExpiry" : "",
-            "cvc" : "",
-            "postalCode" : "",
-            "carOrdered" : ""
-        }
-    ]
+    "user": []
 }
