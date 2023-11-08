@@ -264,5 +264,85 @@
           "amount": "3000",
           "id": 14
         }
+      ],
+
+      "games": [
+        {
+          "id": 1,
+          "name": "SPIDER-MAN 2",
+          "price": 70,
+          "discountedprice": 65,
+          "image": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        },
+        {
+          "id": 2,
+          "name": "MODERN WARFARE III",
+          "price": 80,
+          "discountedprice": 73,
+          "image": "https://media.gamestop.com/i/gamestop/20008463-680826cd?$pdp2x$",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        },
+        {
+          "id": 3,
+          "name": "FC24",
+          "price": 85,
+          "discountedprice": 75,
+          "image": "https://media.gamestop.com/i/gamestop/20007139-2e0ec255?$pdp2x$",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        },
+        {
+          "id": 4,
+          "name": "NFS Heat",
+          "price": 45,
+          "discountedprice": 40,
+          "image": "https://media.gamestop.com/i/gamestop/11096443/Need-for-Speed-Heat---PlayStation-4?$pdp2x$",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        },
+        {
+          "id": 5,
+          "name": "NBA 2K24",
+          "price": 60,
+          "discountedprice": 56,
+          "image": "https://media.gamestop.com/i/gamestop/20007134-0e0f78a8?$pdp2x$",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        },
+        {
+          "id": 6,
+          "name": "UFC 5",
+          "price": 55,
+          "discountedprice": 45,
+          "image": "https://media.gamestop.com/i/gamestop/20008635-680826cd?$pdp2x$",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        },
+        {
+          "id": 7,
+          "name": "MODERN WARFARE II",
+          "price": 40,
+          "discountedprice": 30,
+          "image": "https://media.gamestop.com/i/gamestop/11206901-11206901?$pdp2x$",
+          "description": "Amazing",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
+          "category": "Adventure",
+          "rating": 9
+        }
       ]
 }
