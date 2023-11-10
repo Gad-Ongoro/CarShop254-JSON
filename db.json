@@ -344,5 +344,49 @@
           "category": "Adventure",
           "rating": 9
         }
+      ],
+      "ps": [
+        {
+          "id": 1,
+          "image": "https://media.gamestop.com/i/gamestop/20007577?$pdp2x$",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20007577?$pdp2x$",
+          "price": 600
+        },
+        {
+          "id": 2,
+          "image": "https://media.gamestop.com/i/gamestop/20009293?$pdp2x$",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20009293?$pdp2x$",
+          "price": 650
+        },
+        {
+          "id": 3,
+          "image": "https://media.gamestop.com/i/gamestop/20004932?$pdp2x$",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20004932?$pdp2x$",
+          "price": 550
+        },
+        {
+          "id": 4,
+          "image": "https://media.gamestop.com/i/gamestop/20001549?$pdp2x$",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20001549?$pdp2x$",
+          "price": 500
+        },
+        {
+          "id": 5,
+          "image": "https://media.gamestop.com/i/gamestop/20005418?$pdp2x$",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20005418?$pdp2x$",
+          "price": 500
+        },
+        {
+          "id": 6,
+          "image": "https://media.gamestop.com/i/gamestop/20009142?$pdp2x$",
+          "thumbnail": "https://media.gamestop.com/i/gamestop/20009142?$pdp2x$",
+          "price": 499
+        },
+        {
+          "id": 7,
+          "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
+          "price": 500
+        }
       ]
 }
