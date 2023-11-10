@@ -388,5 +388,49 @@
           "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
           "price": 500
         }
+      ],
+      "CandA" : [
+        {
+          "id": 1,
+          "image": "https://media.gamestop.com/i/gamestop/11106262-ac073eaa?$pdp2x$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 50
+        },
+        {
+          "id": 2,
+          "image": "https://media.gamestop.com/i/gamestop/11106262-3f07e497?$pdp2x$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 50
+        },
+        {
+          "id": 3,
+          "image": "https://media.gamestop.com/i/gamestop/11106262/Sony-DualSense-Wireless-Controller-for-PlayStation-5?$pdp2x$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 50
+        },
+        {
+          "id": 4,
+          "image": "https://media.gamestop.com/i/gamestop/11201334_black/Turtle-Beach-Stealth-600-Gen-2-USB-for-PlayStation-4-PlayStation-5-Nintendo-Switch-and-PC-black?$pdp2x$$&fmt=webp",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 90
+        },
+        {
+          "id": 4,
+          "image": "https://media.gamestop.com/i/gamestop/20008825_Black?$pdp2x$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 99
+        },
+        {
+          "id": 6,
+          "image": "https://media.gamestop.com/i/gamestop/11117762-11117938?$pdp2x$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 400
+        },
+        {
+          "id": 7,
+          "image": "https://media.gamestop.com/i/gamestop/11106280/Sony-PlayStation-5-HD-Camera?$pdp2x$",
+          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
+          "price": 60
+        }
       ]
 }
