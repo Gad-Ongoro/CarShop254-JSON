@@ -1,436 +1,116 @@
 {
-    "cars": [
-        {
-            "id" : 1,
-            "image" : "https://kaba.co.ke/storage/files/ke/15764/thumb-816x460-72decedb44ccbec8e7436f8da4f97d70.jpeg",
-            "price" : "4,500,000",
-            "model" : "Lexus",
-            "year" : "2018"
-        },
-        {
-            "id" : 2,
-            "image" : "https://kaba.co.ke/storage/files/ke/14916/thumb-816x460-94f6dfecc159ab74c57fed7c929a7078.jpg",
-            "price" : "6,500,000",
-            "model" : "BMW",
-            "year" : "2019"
-        },
-        {
-            "id" : 3,
-            "image" : "https://kaba.co.ke/storage/files/ke/14983/thumb-816x460-f9cb0c97c773b805e9397bf66d0200ba.jpg",
-            "price" : "8,200,000",
-            "model" : "Toyota",
-            "year" : "2017"
-        },
-        {
-            "id" : 4,
-            "image" : "https://kaba.co.ke/storage/files/ke/12870/thumb-816x460-9d87b5daf4e933a48d5f5599080972c7.jpg",
-            "price" : "3,500,000",
-            "model" : "Mazda",
-            "year" : "2018"
-        },
-        {
-            "id" : 5,
-            "image" : "https://pictures-kenya.jijistatic.com/52167974_MTYwMC0xMDY4LTgzNGEyYjQwNDg.webp",
-            "price" : "6,400,000",
-            "model" : "Chevrolet",
-            "year" : "2012"
-        },
-        {
-            "id" : 6,
-            "image" : "https://pictures-kenya.jijistatic.com/50916324_MTYwMC0xMDY4LTU1NTE2ODM0ZjQ.webp",
-            "price" : "2,800,000",
-            "model" : "Audi",
-            "year" : "2014"
-        },
-        {
-            "id" : 7,
-            "image" : "https://kaba.co.ke/storage/files/ke/15840/thumb-816x460-e872cbdb641c55d7c29ba08dd2b71bf6.jpg",
-            "price" : "2,150,000",
-            "model" : "Subaru",
-            "year" : "2016"
-        },
-        {
-            "id" : 8,
-            "image" : "https://kaba.co.ke/storage/files/ke/14921/thumb-816x460-7332bfcd8a6291e4a3ec57518d306be0.jpg",
-            "price" : "5,600,000",
-            "model" : "Porche",
-            "year" : "2017"
-        },
-        {
-            "id" : 9,
-            "image" : "https://kaba.co.ke/storage/files/ke/18154/thumb-816x460-c4aa24378b447d12017dbb7b1484ea25.jpeg",
-            "price" : "4,200,000",
-            "model" : "Mercedes-Benz",
-            "year" : "2018"
-        },
-        {
-            "id" : 10,
-            "image" : "https://kaba.co.ke/storage/files/ke/18315/thumb-816x460-a63acf4fd3eb3d0d81215c045f35a9e7.jpg",
-            "price" : "4,850,000",
-            "model" : "Range Rover",
-            "year" : "2016"
-        },
-        {
-            "id" : 11,
-            "image" : "https://pictures-kenya.jijistatic.com/42757354_MTIwMC0xNTk5LWQ4MjFlYTZhNTktMQ.webp",
-            "price" : "5,200,000",
-            "model" : "Kia",
-            "year" : "2020"
-        },
-        {
-            "id" : 12,
-            "image" : "https://kaba.co.ke/storage/files/ke/18320/thumb-816x460-de31778dd2139b16176d3233ee6a76be.jpg",
-            "price" : "3,500,000",
-            "model" : "Mitsubishi",
-            "year" : "2016"
-        },
-        {
-            "id" : 13,
-            "image" : "https://pictures-kenya.jijistatic.com/55710654_MTA4MC03MTktZGEwMWJkNGNhZQ.webp",
-            "price" : "2,000,000",
-            "model" : "Mini",
-            "year" : "2018"
-        },
-        {
-            "id" : 14,
-            "image" : "https://pictures-kenya.jijistatic.com/54782429_MTYwMC0xMjAwLTc5MTk5MjA3MjU.webp",
-            "price" : "1,800,000",
-            "model" : "Volkswagen",
-            "year" : "2016"
-        },
-        {
-            "id" : 15,
-            "image" : "https://pictures-kenya.jijistatic.com/51349230_MTUwMC0xMTI1LTUyNzg5N2JkMjk.webp",
-            "price" : "3,600,000",
-            "model" : "Jaguar",
-            "year" : "2015"
-        },
-        {
-            "id" : 16,
-            "image" : "https://pictures-kenya.jijistatic.com/48837597_MTUwMC0xMTI1LTMxNGY5OTAzYmI.webp",
-            "price" : "3,400,000",
-            "model" : "Peugeot",
-            "year" : "2016"
-        },
-        {
-            "id" : 17,
-            "image" : "https://pictures-kenya.jijistatic.com/55980553_MTUwMC0xMTAwLTM5YzI5YmYyMzc.webp",
-            "price" : "5,400,000",
-            "model" : "Jeep",
-            "year" : "2017"
-        },
-        {
-            "id" : 18,
-            "image" : "https://pictures-kenya.jijistatic.com/53603997_MTYwMC0xMDY2LTJiOGRlZjJlN2E.webp",
-            "price" : "2,200,000",
-            "model" : "Nissan",
-            "year" : "2015"
-        },
-        {
-            "id" : 19,
-            "image" : "https://pictures-kenya.jijistatic.com/55600363_MTYwMC0xMjAwLTM0MGM0NTNkY2Y.webp",
-            "price" : "4,200,000",
-            "model" : "Honda",
-            "year" : "2017"
-        },
-        {
-            "id" : 20,
-            "image" : "https://pictures-kenya.jijistatic.com/49113848_MTYwMC0xMDY3LTM4YTU5ZTQwNTk.webp",
-            "price" : "5,800,000",
-            "model" : "Ford",
-            "year" : "2013"
-        },
-        {
-            "id" : 21,
-            "image" : "https://kaba.co.ke/storage/files/ke/3445/thumb-816x460-whatsapp-image-2021-03-01-at-21-00-20.png",
-            "price" : "2,200,000",
-            "model" : "Suzuki",
-            "year" : "2014"
-        },
-        {
-            "id" : 22,
-            "image" : "https://www.topgear.com/sites/default/files/2022/04/1%20Isuzu%20D-Max%20Arctic%20Trucks%20AT35.jpg",
-            "price" : "8,600,000",
-            "model" : "Isuzu",
-            "year" : "2015"
-        },
-        {
-            "id" : 23,
-            "image" : "https://i.ytimg.com/vi/w3GGfihj5x8/sddefault.jpg",
-            "price" : "9,000,000",
-            "model" : "Volvo",
-            "year" : "2020"
-        }
-    ],
-
-    "user": [],
-
-    "transactions": [
-        {
-          "id": 1,
-          "date": "2019-12-01",
-          "description": "Paycheck from Bob's Burgers",
-          "category": "Income",
-          "amount": 1000
-        },
-        {
-          "id": 2,
-          "date": "2019-12-01",
-          "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-          "category": "Food",
-          "amount": -10.55
-        },
-        {
-          "id": 3,
-          "date": "2019-12-02",
-          "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-          "category": "Food",
-          "amount": -10.55
-        },
-        {
-          "id": 4,
-          "date": "2019-12-04",
-          "description": "Sunglasses, Urban Outfitters",
-          "category": "Fashion",
-          "amount": -24.99
-        },
-        {
-          "id": 5,
-          "date": "2019-12-06",
-          "description": "Venmo, Alice Pays you for Burrito",
-          "category": "Food",
-          "amount": 8.75
-        },
-        {
-          "id": 6,
-          "date": "2019-12-06",
-          "description": "Chipotle",
-          "category": "Food",
-          "amount": -17.59
-        },
-        {
-          "id": 7,
-          "date": "2019-12-07",
-          "description": "Birthday Check from Grandma",
-          "category": "Gift",
-          "amount": 50
-        },
-        {
-          "id": 8,
-          "date": "2019-12-09",
-          "description": "Lyft Ride",
-          "category": "Transportation",
-          "amount": -13.25
-        },
-        {
-          "id": 9,
-          "date": "2019-12-11",
-          "description": "Paycheck from Bob's Burgers",
-          "category": "Income",
-          "amount": 1000
-        },
-        {
-          "id": 10,
-          "date": "2019-12-16",
-          "description": "Tickets, Flatiron Multiplex Cinemas",
-          "category": "Entertainment",
-          "amount": -24
-        },
-        {
-          "id": 11,
-          "date": "2019-12-16",
-          "description": "MTA Vending Machine: MetroCard",
-          "category": "Transportation",
-          "amount": -116.39
-        },
-        {
-          "id": 12,
-          "date": "2019-12-17",
-          "description": "Venmo, Pay Roommate for Rent",
-          "category": "Housing",
-          "amount": -975
-        },
-        {
-          "date": "2022-07-09",
-          "description": "Office lunch",
-          "category": "Food",
-          "amount": "2000",
-          "id": 13
-        },
-        {
-          "date": "2022-07-09",
-          "description": "Office lunch Wednesday",
-          "category": "Food",
-          "amount": "3000",
-          "id": 14
-        }
-      ],
-
-      "games": [
-        {
-          "id": 1,
-          "name": "SPIDER-MAN 2",
-          "price": 70,
-          "discountedprice": 65,
-          "image": "https://media.gamestop.com/i/gamestop/20006017/Marvels-Spider-Man-2---PlayStation-5?$pdp2x$$&fmt=webp",
-          "description": "Amazing",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/spider-man-2-hero-banner-desktop-07-en-16oct23?$1600px$",
-          "category": "Adventure",
-          "rating": 9
-        },
-        {
-          "id": 2,
-          "name": "MODERN WARFARE III",
-          "price": 80,
-          "discountedprice": 73,
-          "image": "https://media.gamestop.com/i/gamestop/20008463-680826cd?$pdp2x$",
-          "description": "Amazing",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/call-of-duty-modern-warfare-iii-early-access-hero-desktop-01-en-23oct23?$1600px$",
-          "category": "Adventure",
-          "rating": 9
-        },
-        {
-          "id": 3,
-          "name": "FC24",
-          "price": 85,
-          "discountedprice": 75,
-          "image": "https://media.gamestop.com/i/gamestop/20007139-2e0ec255?$pdp2x$",
-          "description": "Amazing",
-          "thumbnail": "https://image.api.playstation.com/vulcan/ap/rnd/202307/0710/28b62abf77fde8a35e133f69a9a253e4307b2a04d2040699.jpg?w=940&thumb=false",
-          "category": "Adventure",
-          "rating": 9
-        },
-        {
-          "id": 4,
-          "name": "Gran Turismo 7",
-          "price": 45,
-          "discountedprice": 40,
-          "image": "https://media.gamestop.com/i/gamestop/11162003/Gran-Turismo-7---PlayStation-5?$pdp2x$",
-          "description": "Amazing",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/gran-turismo-7-screenshot-01-disclaimer-en-01oct20?$1600px$",
-          "category": "Adventure",
-          "rating": 9
-        },
-        {
-          "id": 5,
-          "name": "NBA 2K24",
-          "price": 60,
-          "discountedprice": 56,
-          "image": "https://media.gamestop.com/i/gamestop/20007134-0e0f78a8?$pdp2x$",
-          "description": "Amazing",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/NBA2K24-hero-desktop-02-en-18sep23?$1600px$",
-          "category": "Adventure",
-          "rating": 9
-        },
-        {
-          "id": 6,
-          "name": "UFC 5",
-          "price": 55,
-          "discountedprice": 45,
-          "image": "https://media.gamestop.com/i/gamestop/20008635-680826cd?$pdp2x$",
-          "description": "Amazing",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ufc-5-hero-banner-desktop-01-en-06sep23?$1600px$",
-          "category": "Adventure",
-          "rating": 9
-        },
-        {
-          "id": 7,
-          "name": "MODERN WARFARE II",
-          "price": 40,
-          "discountedprice": 30,
-          "image": "https://media.gamestop.com/i/gamestop/11206901-11206901?$pdp2x$",
-          "description": "Amazing",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/call-of-duty-modern-warfare-2-hero-banner-desktop-01-ps4-ps5-en-26may22?$1600px$",
-          "category": "Adventure",
-          "rating": 9
-        }
-      ],
-      "ps": [
-        {
-          "id": 1,
-          "image": "https://media.gamestop.com/i/gamestop/20007577?$pdp2x$",
-          "thumbnail": "https://media.gamestop.com/i/gamestop/20007577?$pdp2x$",
-          "price": 600
-        },
-        {
-          "id": 2,
-          "image": "https://media.gamestop.com/i/gamestop/20009293?$pdp2x$",
-          "thumbnail": "https://media.gamestop.com/i/gamestop/20009293?$pdp2x$",
-          "price": 650
-        },
-        {
-          "id": 3,
-          "image": "https://media.gamestop.com/i/gamestop/20004932?$pdp2x$",
-          "thumbnail": "https://media.gamestop.com/i/gamestop/20004932?$pdp2x$",
-          "price": 550
-        },
-        {
-          "id": 4,
-          "image": "https://media.gamestop.com/i/gamestop/20001549?$pdp2x$",
-          "thumbnail": "https://media.gamestop.com/i/gamestop/20001549?$pdp2x$",
-          "price": 500
-        },
-        {
-          "id": 5,
-          "image": "https://media.gamestop.com/i/gamestop/20005418?$pdp2x$",
-          "thumbnail": "https://media.gamestop.com/i/gamestop/20005418?$pdp2x$",
-          "price": 500
-        },
-        {
-          "id": 6,
-          "image": "https://media.gamestop.com/i/gamestop/20009142?$pdp2x$",
-          "thumbnail": "https://media.gamestop.com/i/gamestop/20009142?$pdp2x$",
-          "price": 499
-        },
-        {
-          "id": 7,
-          "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
-          "price": 500
-        }
-      ],
-      "CandA" : [
-        {
-          "id": 1,
-          "image": "https://media.gamestop.com/i/gamestop/11106262-ac073eaa?$pdp2x$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 50
-        },
-        {
-          "id": 2,
-          "image": "https://media.gamestop.com/i/gamestop/11106262-3f07e497?$pdp2x$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 50
-        },
-        {
-          "id": 3,
-          "image": "https://media.gamestop.com/i/gamestop/11106262/Sony-DualSense-Wireless-Controller-for-PlayStation-5?$pdp2x$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 50
-        },
-        {
-          "id": 4,
-          "image": "https://media.gamestop.com/i/gamestop/11201334_black/Turtle-Beach-Stealth-600-Gen-2-USB-for-PlayStation-4-PlayStation-5-Nintendo-Switch-and-PC-black?$pdp2x$$&fmt=webp",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 90
-        },
-        {
-          "id": 5,
-          "image": "https://media.gamestop.com/i/gamestop/20008825_Black?$pdp2x$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 99
-        },
-        {
-          "id": 6,
-          "image": "https://media.gamestop.com/i/gamestop/11117762-11117938?$pdp2x$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 400
-        },
-        {
-          "id": 7,
-          "image": "https://media.gamestop.com/i/gamestop/11106280/Sony-PlayStation-5-HD-Camera?$pdp2x$",
-          "thumbnail": "https://gmedia.playstation.com/is/image/SIEPDC/ultimate-gaming-setup-keyart-01-en-24oct22?$600px--t$",
-          "price": 60
-        }
-      ]
+  "books": [
+    {
+      "id": "1",
+      "title": "A Game of Thrones",
+      "author": "George R. R. Martin",
+      "price": 525,
+      "description": "A Game of Thrones is the first novel in A Song of Ice and Fire, a series of fantasy novels by American author George R. R. Martin.This novel is recounting events from various points of view, Martin introduces us to the noble houses of Westeros, the Wall, and the Targaryens",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE6r9PS-LWAL9BLF_CEuWDF6pWlzMr6wH5KM_-PplALg297f2A"
+    },
+    {
+      "id": "2",
+      "title": "The Great Gatsby",
+      "price": "ksh 999",
+      "author": "F. Scott Fitzge",
+      "description": "Set in Jazz Age New York, it tells the tragic story of Jay Gatsby, a self-made millionaire, and his pursuit of Daisy Buchanan, a wealthy young woman whom he loved in his youth.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Things Fall Apart",
+      "price": "1499",
+      "author": "Chinua Achebe",
+      "description": "The novel chronicles the life of Okonkwo, the leader of an Igbo community, from the events leading up to his banishment from the community for accidentally killing a clansman, through the seven years of his exile, to his return, and it addresses a particular problem of emergent Africa",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbbv3xudjL3yp7v21FSpFV41dhCg5LbttNkhKWcTsi15q_YjyK"
+    },
+    {
+      "id": "4",
+      "title": "Lord of the Flies",
+      "price": "1999",
+      "author": "William Golding",
+      "description": "group of British boys who are stranded on an uninhabited island and their disastrous attempts to govern themselves.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/LordOfTheFliesBookCover.jpg"
+    },
+    {
+      "id": "5",
+      "title": "A Little Life",
+      "price": "899",
+      "author": "Hanya Yanagihara",
+      "description": "A Little Life (2015) follows the lives of four friends in New York City: aspiring actor Willem, moody painter JB, quiet architect Malcolm, and the brilliant, mysterious litigator Jude",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbphzgI6WkqUY8QwpMVAlDWsbORBa16Uj35LtsNyKsaOYhs0Y4"
+    },
+    {
+      "id": "6",
+      "title": "Don Quixote",
+      "price": "2499",
+      "author": "Miguel de Cervantes",
+      "description": "Don Quixote is a classic novel from 1605 which portraits the life and insightful journey of Don Quixote de la Mancha, a Spanish man who seems to be losing his mind on his quest to become a knight and restore chivalry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Title_page_first_edition_Don_Quijote.jpg/250px-Title_page_first_edition_Don_Quijote.jpg"
+    },
+    {
+      "id": "7",
+      "title": "The Call of the Wild",
+      "price": "2999",
+      "author": "Jack London",
+      "description": "Buck is stolen from his home and sold into service as a sled dog in Alaska. He becomes progressively more primitive and wild in the harsh environment, where he is forced to fight to survive and dominate other dogs.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/JackLondoncallwild.jpg/220px-JackLondoncallwild.jpg"
+    },
+    {
+      "id": "8",
+      "title": "A Visit from the Goon Squad",
+      "price": "699",
+      "author": "Jennifer Egan",
+      "description": "few characters who recur a bit more frequently than others, and broadly around the American music scene: Lou, a coke-snorting, teenage-girl-seducing music producer in the 1970s, becomes the mentor of an untalented young bass player",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDBMqWrmq90TOVHvpaaONPhntDvjDkUhohImh_rrrhQHLZ3Qfu"
+    },
+    {
+      "id": "9",
+      "title": "Beloved",
+      "price": "1199",
+      "author": "Toni Morrison",
+      "description": " examines the destructive legacy of slavery as it chronicles the life of a Black woman named Sethe, from her pre-Civil War days as a slave in Kentucky to her time in Cincinnati, Ohio, in 1873. ",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5WY-mHjTSr5IS1BA40gX8l4wVyAvJqWJ-KrzK-7SWVRKdm7KC"
+    },
+    {
+      "id": "10",
+      "title": "The Struggle",
+      "price": "2999",
+      "author": " L. J. Smith",
+      "description": "the life of popular girl Elena Gilbert and her endeavors with the mysterious vampire brothers Stefan and Damon Salvatore.",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0p89EceJYWClInCOi01lbMOybmOImoZDZZitbJPIo8OzOTna4"
+    },
+    {
+      "title": "heyfd",
+      "description": "jkyufyg",
+      "price": "25000",
+      "image": "C:\\fakepath\\ravine.html",
+      "author": "fgdfeter",
+      "id": "6FiAnZ3"
+    },
+    {
+      "title": "udfgfdg",
+      "description": "jjgv",
+      "price": "2500",
+      "image": "C:\\fakepath\\ravine.html",
+      "author": "jhfvg",
+      "id": "x9WGpLm"
+    },
+    {
+      "title": "jkdjdj",
+      "description": "djdj",
+      "price": "2500",
+      "image": "C:\\fakepath\\WhatsApp Image 2023-10-13 at 15.05.10.jpeg",
+      "author": "kdjdj",
+      "id": "1BPB84L"
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "author": "",
+      "id": "Esb6D2g"
+    }
+  ]
 }
